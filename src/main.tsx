@@ -76,6 +76,8 @@ createRoot(document.getElementById("root")!).render(
 
             <button type="submit">Tweet</button>
           </form>
+
+          <div className="separator" />
         </main>
       </div>
     </div>
