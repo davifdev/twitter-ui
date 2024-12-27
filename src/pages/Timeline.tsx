@@ -10,7 +10,7 @@ export function Timeline() {
   const [newTweet, setNewTweet] = useState("");
   const [tweets, setTweets] = useState([
     "Meu primeiro Tweet",
-    "Olá, Chico Marreta",
+    "Olá, Mundo!",
     "Eu sou Desenvolvedor Full Stack",
   ]);
 
